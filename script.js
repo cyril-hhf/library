@@ -74,3 +74,14 @@ document.getElementById('bookForm').addEventListener('submit', function(event) {
 // Example to add a few books manually
 addBookToLibrary(new Book('For one more day', 'Mitch Albom', 197, false));
 addBookToLibrary(new Book('Open Water Diver Manual', 'PADI', 247, true));
+addBookToLibrary(new Book('1984', 'George Orwell', 328, true));
+addBookToLibrary(new Book('To Kill a Mockingbird', 'Harper Lee', 281, false));
+addBookToLibrary(new Book('The Great Gatsby', 'F. Scott Fitzgerald', 180, true));
+addBookToLibrary(new Book('The Catcher in the Rye', 'J.D. Salinger', 214, false));
+addBookToLibrary(new Book('Pride and Prejudice', 'Jane Austen', 279, true));
+addBookToLibrary(new Book('The Hobbit', 'J.R.R. Tolkien', 310, false));
+addBookToLibrary(new Book('Fahrenheit 451', 'Ray Bradbury', 194, true));
+addBookToLibrary(new Book('Jane Eyre', 'Charlotte Brontë', 500, false));
+addBookToLibrary(new Book('Animal Farm', 'George Orwell', 112, true));
+addBookToLibrary(new Book('Moby-Dick', 'Herman Melville', 635, false));
+
